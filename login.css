@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(231, 231, 231);
+}
+
+.main {
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    height: 60vh;
+    width: 23vw;
+}
+
+.box h1 {
+    color: cornflowerblue;
+
+}
+
+.colored {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.box p {
+    font-size: 4vh;
+    width: 20vw;
+    position: relative;
+    top: -20px;
+    font-weight: bold;
+}
+
+.box h4 {
+    float: left;
+    position: relative;
+    top: -50px;
+    font-size: 13.5px;
+}
+
+.box input {
+    text-align: center;
+    height: 5vh;
+    width: 21vw;
+    margin: 2%;
+    position: relative;
+    top: -45px;
+}
+.box h5{
+    float: left;
+    position: relative;
+    top: -40px;
+    font-size: 2.7vh;
+    color: cornflowerblue;
+}
+.box h3{
+   display: grid;
+    position: relative;
+    top: -40px;
+    font-size: 3vh;
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 40px;
+    height: 5vh;
+    width: 35vh;
+    margin: auto;
+    
+}
+.box h6{
+    float: left;
+    font-size: 2.5vh;
+    position: relative;
+    top: -50px;
+    color: cornflowerblue;
+}
